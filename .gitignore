@@ -30,6 +30,12 @@ pip-delete-this-directory.txt
 *.json
 *.html
 
+# Homework 4 outputs (exceptions)
+!hw_ex*.png
+!hw_dem.tif
+!terrain_risk_*.png
+!terrain_risk_audit.json
+
 # OS files
 .DS_Store
 Thumbs.db
